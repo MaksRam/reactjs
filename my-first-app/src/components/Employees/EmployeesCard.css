@@ -1,0 +1,13 @@
+.flex-parent {
+    display: flex;
+  }
+  
+  .flex-child:last-child {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .img-thumbnail {
+    max-width: 50px !important;
+  }

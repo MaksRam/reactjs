@@ -1,0 +1,21 @@
+.card {
+    display: inline-block !important;
+    margin: 10px;
+   
+}
+
+.name {
+    font-size: 12px;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+  
+}
+
+
+.delbutn {
+   margin-left: 120px;
+   
+}

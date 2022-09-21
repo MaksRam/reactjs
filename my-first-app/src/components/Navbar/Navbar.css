@@ -1,0 +1,16 @@
+.active-link:hover {
+    background-color: grey;
+    color: black;
+}
+
+.active-link {
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #dee2e6;
+    color: black;
+
+}
